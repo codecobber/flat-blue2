@@ -3,7 +3,7 @@
 Plugin Name: FlatBlue Admin Theme
 Description: A more modern look for the admin interface in GetSimple CMS
 Version: 1.1
-Author: PhireWare
+Author: PhireWare...
 Author URI: http://www.phireware.com/
 */
 
